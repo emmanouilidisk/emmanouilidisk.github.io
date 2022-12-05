@@ -13,8 +13,4 @@ being co-advised by Professor [Nicolas Loizou](https://nicolasloizou.github.io/)
 
 Prior, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) and Professor [Pavlos Efraimidis](https://euclid.ee.duth.gr/) on the intersection of theoretical computer science and the field of opinion dynamics. I recieved a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
 
-You can find my [CV](static/files/cv.pdf). 
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can find my [CV](static/files/cv.pdf).
