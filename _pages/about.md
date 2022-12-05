@@ -13,4 +13,4 @@ being co-advised by Professor [Nicolas Loizou](https://nicolasloizou.github.io/)
 
 Before coming to U.S., I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) and Professor [Pavlos Efraimidis](https://euclid.ee.duth.gr/) on the intersection of theoretical computer science and the field of opinion dynamics. I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
 
-You can find my [CV](_pages/cv.pdf).
+You can find my [CV](_pages/Resume_Konstantinos_Emmanouilidis_revised.pdf).
