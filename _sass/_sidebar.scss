@@ -84,7 +84,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 35%;
+    border-radius: 45%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -117,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $sans-serif $info-color;
   font-size: $type-size-5;
 }
 
