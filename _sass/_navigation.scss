@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: #000000;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -254,7 +254,7 @@
     top: 100%;
     right: 0;
     margin-top: 15px;
-    padding: 5px;
+    padding: 2px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: #fff;
@@ -323,7 +323,7 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: #0627FD;
 
     &:hover {
       text-decoration: underline;
@@ -380,7 +380,7 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #0660FD;
+    color: #0627FD;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
@@ -398,7 +398,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    color: #000000;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
