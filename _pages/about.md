@@ -22,7 +22,7 @@ in Electrical and Computer Engineering from Greece.
 You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_revised.pdf).  
 
   
-  ### Latest News 
+  ## Latest News 
 
 - Happy to have been awarded the MINDS 2023 Fellowship! 🏆
   
