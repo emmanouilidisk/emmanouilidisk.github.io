@@ -20,6 +20,9 @@ Prior, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~f
 in Electrical and Computer Engineering from Greece.   
 
 You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_revised.pdf).  
+
   
+  ### Latest News 
+
+- Happy to have been awarded the MINDS 2023 Fellowship! 🏆
   
-My first name is Constantinos or Konstantinos(from the Greek nameshake).
