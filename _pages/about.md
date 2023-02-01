@@ -20,9 +20,8 @@ Prior, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~f
 in Electrical and Computer Engineering from Greece.   
 
 You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_revised.pdf).  
-<h1>
   
-  ## Latest News </h1>
+<h1> Latest News </h1>
 
 - Happy to have been awarded the MINDS 2023 Fellowship! 🏆
   
