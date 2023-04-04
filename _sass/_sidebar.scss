@@ -73,9 +73,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
+  
   @include breakpoint($large) {
     display: block;
     width: auto;
@@ -83,12 +81,12 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    //max-width: 250px;
+    //border-radius: 55%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      padding: 2px;
+      border: 1px solid $info-color;
     }
   }
 }
@@ -96,7 +94,7 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
+  padding-left: 10px;
   padding-right: 25px;
   line-height: 1;
 
@@ -117,7 +115,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $sans-serif $border-color;
   font-size: $type-size-5;
 }
 
