@@ -72,7 +72,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  // width: 0px;
+  // width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -117,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif $border-color;
+  font-family: $sans-serif $info-color;
   font-size: $type-size-5;
 }
 
