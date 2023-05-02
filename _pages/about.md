@@ -26,7 +26,7 @@ You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_a.pdf).
 - IEEE Collegiate Programming Competition (IEEExtreme) - top 10% worlwide
 - South Eastern European Mathematical Olympiad (SEEMOUS) - Bronze Medal (2x)
 
-#### Latest News
+### Latest News
 
 - I have been awarded the MINDS 2023 Fellowship! 🏆
 - Started my academic journey at Hopkins.
