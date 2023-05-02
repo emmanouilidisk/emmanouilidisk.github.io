@@ -29,6 +29,6 @@ You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_a.pdf).
 #### Latest News
 
 - I have been awarded the MINDS 2023 Fellowship! 🏆
-- Started my academic journey @ Hopkins :)
+- Started my academic journey at Hopkins.
 
 
