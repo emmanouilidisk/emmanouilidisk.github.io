@@ -19,14 +19,14 @@ theoretical computer science, (multi-agent) optimization, machine learning and g
 Prior, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) and Professor [Pavlos Efraimidis](https://euclid.ee.duth.gr/) on the intersection of theoretical computer science and opinion dynamics. I received a joint BSc - MSc   
 in Electrical and Computer Engineering from Greece.   
 
-You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_revised.pdf).  
+You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_a.pdf).  
   
-## Selected Honors & Awards   
+### Selected Honors & Awards   
 - International Mathematics Competition (IMC) - Bronze Medal
 - IEEE Collegiate Programming Competition (IEEExtreme) - top 10% worlwide
 - South Eastern European Mathematical Olympiad (SEEMOUS) - Bronze Medal (2x)
 
-## Latest News
+#### Latest News
 
 - I have been awarded the MINDS 2023 Fellowship! 🏆
 - Started my academic journey @ Hopkins :)
