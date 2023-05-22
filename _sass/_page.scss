@@ -44,7 +44,7 @@
 }
 
 .page__lead {
-  font-family: $georgia, serif;
+  font-family: $georgia;
   font-size: $type-size-4;
 }
 
@@ -86,13 +86,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $georgia, serif;
+    font-family: $georgia;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $georgia, serif;
+    font-family: $georgia;
     font-size: $type-size-6;
   }
 
@@ -126,7 +126,7 @@
     animation-delay: 0.25s;
 
     a {
-      color: #fff;
+      color: blue;
     }
 
     .wrapper {
