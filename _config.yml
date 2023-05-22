@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Konstantinos Emmanouilidis"
 title_separator          : "-"
-name                     : &name "Constantinos Emmanouilidis"
+name                     : &name "Konstantinos Emmanouilidis"
 description              : &description "personal description"
 url                      : "https://emmanouilidisk.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
