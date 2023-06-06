@@ -59,7 +59,7 @@ small, .small {
 
 p {
   margin-bottom: 1.3em;
-   font-size: 16px;
+   font-size: 14px;
 }
 
 u,
@@ -112,7 +112,7 @@ blockquote {
 
 /* links */
 
-a {
+a {text-decoration-style: dotted
   &:focus {
     @extend %tab-focus;
   }
