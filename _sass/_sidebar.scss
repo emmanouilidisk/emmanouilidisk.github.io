@@ -145,16 +145,16 @@
     }
   }
 
-  @include breakpoint($large) {
-    display: block;
-  }
+  //@include breakpoint($large) {
+  //  display: block;
+  //}
 
   button {
     margin-bottom: 0;
 
-    @include breakpoint($large) {
-      display: none;
-    }
+    //@include breakpoint($large) {
+    //  display: none;
+    //}
   }
 }
 
