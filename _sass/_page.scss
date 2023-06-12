@@ -73,10 +73,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: underline dotted;
 
     &:hover {
-      text-decoration: underline dotted;
+      text-decoration: underline ;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
