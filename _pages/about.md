@@ -14,7 +14,7 @@ I am interested in algorithms for machine learning and optimization
 with the higher goal of providing theoretical guarantees for the   
 reliable and successful use of machine learning algorithms.   
 To achieve this, I enjoy combining my diverse research interests:   
-machine learning theory, (multi-agent) optimization, theoretical computer science and game theory.
+machine learning, (multi-agent) optimization, theoretical computer science and game theory.
 
 Prior, I worked with Professor [Dimitris Fotakis](https://www.softlab.ntua.gr/~fotakis/) and Professor [Pavlos Efraimidis](https://euclid.ee.duth.gr/)   
 on the intersection of theoretical computer science and opinion dynamics.   
