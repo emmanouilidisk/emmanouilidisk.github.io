@@ -23,9 +23,12 @@ I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.
 You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_a.pdf).  
   
 ## Selected Honors & Awards   
-- International Mathematics Competition (IMC) - *Bronze Medal*
-- IEEExtreme 13.0 Collegiate Programming Competition - *top 10% worldwide*
-- South Eastern European Mathematical Olympiad (SEEMOUS) - *Bronze Medal (2x)*
+- International Mathematics Competition (IMC)  
+  *Bronze Medal*
+- IEEExtreme 13.0 Collegiate Programming Competition  
+  *top 10% worldwide*
+- South Eastern European Mathematical Olympiad (SEEMOUS)  
+  *Bronze Medal (2x)*
 
 
 
