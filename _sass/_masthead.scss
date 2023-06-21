@@ -11,25 +11,7 @@
           animation-delay: 0.15s;
   z-index: 20;
 
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 0.5em 1em 0.3em;
-    font-family: $georgia;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
-      color: $masthead-link-color; //blue-color;
-    }
-  }
+  
 }
 
 .masthead__menu {
