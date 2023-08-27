@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a 1st year PhD student in Computer Science at JHU,   
-working with Professor [Nicolas Loizou](https://nicolasloizou.github.io/) and Professor [Rene Vidal](http://vision.jhu.edu/rvidal.html).   
+I am a PhD student in Computer Science at JHU,   
+working with Professor [Nicolas Loizou](https://nicolasloizou.github.io/) and Professor [Renè Vidal](http://vision.jhu.edu/rvidal.html).   
 I am interested in algorithms for machine learning and optimization   
 with the higher goal of providing theoretical guarantees for the   
 reliable and successful use of machine learning algorithms.   
