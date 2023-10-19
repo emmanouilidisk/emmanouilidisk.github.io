@@ -12,21 +12,25 @@ redirect_from:
 I am a PhD student in Computer Science at JHU,   
 working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and Professor <a href="http://vision.jhu.edu/rvidal.html)"> Renè Vidal</a>.  
 <br><br>
+</span></p>
+<p>
 I am interested in algorithms for machine learning and optimization   
 with the higher goal of providing theoretical guarantees for the   
 reliable and successful use of machine learning algorithms. 
-<br><br>
+</p>
+<p>
 To achieve this, I enjoy combining my diverse research interests:   
 <br><br>
 machine learning, (multi-agent) optimization, theoretical computer science and game theory.
-<br><br>
+</p>
+<p>
 Prior, I worked with Professor <a href="https://www.softlab.ntua.gr/~fotakis/"> Dimitris Fotakis</a> and Professor <a href="https://euclid.ee.duth.gr/"> Pavlos Efraimidis</a>  
 on the intersection of theoretical computer science and opinion dynamics.   
 <br><br>
 I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
-<br><br>
+</p>
 
-You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.github.io/tree/master/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.  
+<p>You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.github.io/tree/master/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>. </p> 
   
 <b>Selected Honors & Awards</b>   
 <li>International Mathematics Competition (IMC)  
@@ -38,7 +42,5 @@ You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.git
 <li>South Eastern European Mathematical Olympiad (SEEMOUS)  
   <b>Bronze Medal (2x)</b>
 </li> 
-
-</span></p>
 
 
