@@ -24,7 +24,7 @@ To achieve this, I enjoy combining my diverse research interests:
 machine learning, (multi-agent) optimization, theoretical computer science and game theory.
 </p>
 <p>
-Prior, I worked with Professor <a href="https://www.softlab.ntua.gr/~fotakis/"> Dimitris Fotakis</a> and Professor <a href="https://euclid.ee.duth.gr/"> Pavlos Efraimidis</a>  
+Prior, I worked with Professor <a href="https://www.softlab.ntua.gr/~fotakis/"> Dimitris Fotakis</a> and Professor <a href="https://euclid.ee.duth.gr/"> Pavlos Efraimidis</a>  <br>
 on the intersection of theoretical computer science and opinion dynamics.   
 <br>
 I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
