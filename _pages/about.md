@@ -22,15 +22,18 @@ Prior, I worked with Professor <a href="https://www.softlab.ntua.gr/~fotakis/"> 
 on the intersection of theoretical computer science and opinion dynamics.   
 I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
 
-You can find my CV [here](_pages/Resume_Emmanouilidis_Konstantinos_a.pdf).  
+You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.github.io/tree/master/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.  
   
-## Selected Honors & Awards   
-- International Mathematics Competition (IMC)  
-  *Bronze Medal*
-- IEEExtreme 13.0 Collegiate Programming Competition  
-  *top 10% worldwide*
-- South Eastern European Mathematical Olympiad (SEEMOUS)  
-  *Bronze Medal (2x)*
+<b>Selected Honors & Awards</b>   
+<li>International Mathematics Competition (IMC)  
+  <b>Bronze Medal</b>
+</li>
+<li>IEEExtreme 13.0 Collegiate Programming Competition 
+  <b>top 10% worldwide</b>
+</li> 
+<li>South Eastern European Mathematical Olympiad (SEEMOUS)  
+  <b>Bronze Medal (2x)</b>
+</li> 
 
 </span></p>
 
