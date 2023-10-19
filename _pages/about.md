@@ -17,7 +17,7 @@ I am interested in algorithms for machine learning and optimization <br>
 with the higher goal of providing theoretical guarantees for the <br>  
 reliable and successful use of machine learning algorithms. 
 </p>
-</span></p>
+</span>
 <p>
 To achieve this, I enjoy combining my diverse research interests:   
 <br>
