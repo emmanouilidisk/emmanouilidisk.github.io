@@ -9,12 +9,12 @@ redirect_from:
 ---
 <p><img src="../images/bio3.jpg" width="30%" style="margin-left: 30px; float:right; margin-bottom: 25px;">
 <span>
-I am a PhD student in Computer Science at JHU,   
-working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and Professor <a href="http://vision.jhu.edu/rvidal.html)"> Renè Vidal</a>.  
+I am a PhD student in Computer Science at JHU,<br> 
+working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html)"> Renè Vidal</a>.  
 <br>
 <p>
-I am interested in algorithms for machine learning and optimization   
-with the higher goal of providing theoretical guarantees for the   
+I am interested in algorithms for machine learning and optimization <br>  
+with the higher goal of providing theoretical guarantees for the <br>  
 reliable and successful use of machine learning algorithms. 
 </p>
 </span></p>
