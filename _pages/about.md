@@ -29,19 +29,21 @@ on the intersection of theoretical computer science and opinion dynamics.
 <br>
 I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
 <br>
+<br>
 You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.github.io/tree/master/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.
 </p>
 
 <p>  
 <b>Selected Honors & Awards</b>   
-<li>International Mathematics Competition (IMC)  
-  <li style="list-style:none;"><b>Bronze Medal</b></li>
+<li list-style-position: outside;>International Mathematics Competition (IMC)  
+  <br>
+  <b>Bronze Medal</b>
 </li>
-<li>IEEExtreme 13.0 Collegiate Programming Competition 
-  <li style="list-style:none;"><b>top 10% worldwide</b></li>
+<li list-style-position: outside;>IEEExtreme 13.0 Collegiate Programming Competition 
+  <br><b>top 10% worldwide</b>
 </li> 
-<li>South Eastern European Mathematical Olympiad (SEEMOUS) 
-  <li style="list-style:none;"><b>Bronze Medal (2x)</b></li>
+<li list-style-position: outside;>South Eastern European Mathematical Olympiad (SEEMOUS) 
+  <br><b>Bronze Medal (2x)</b>
 </li> 
 </p>
 
