@@ -36,10 +36,10 @@ You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.git
 <p>  
 <b>Selected Honors & Awards</b> 
 <li>International Mathematics Competition (IMC)  
-  <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
+  <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
 </li>
 <li>IEEExtreme 13.0 Collegiate Programming Competition 
-  <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
+  <br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
 </li> 
 <li>South Eastern European Mathematical Olympiad (SEEMOUS) 
 <span style="position: relative; left: +1.35em;"> <br><b>Bronze Medal (2x)</b></span>
