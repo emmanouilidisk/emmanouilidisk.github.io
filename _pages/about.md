@@ -32,8 +32,7 @@ I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.
 <br>
 You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.github.io/tree/master/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.
 </p>
-<h4>Selected Honors & Awards</h4> 
-<p>  
+<h3>Selected Honors & Awards</h3>  
 <li>International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
 </li>
@@ -43,6 +42,5 @@ You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.git
 <li>South Eastern European Mathematical Olympiad (SEEMOUS) 
 <span style="position: relative; left: +1.35em;"> <br><b>Bronze Medal (2x)</b></span>
 </li> 
-</p>
 
 
