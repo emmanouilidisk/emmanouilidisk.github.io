@@ -34,9 +34,9 @@ You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.git
 </p>
 
 <p>  
-<b>Selected Honors & Awards</b>   
-<li width: 100px>International Mathematics Competition (IMC)  
-  <b>Bronze Medal</b>
+<b>Selected Honors & Awards</b> 
+<li>International Mathematics Competition (IMC)  
+  <br style="margin-top: -2em;"> <b>Bronze Medal</b>
 </li>
 <li>IEEExtreme 13.0 Collegiate Programming Competition 
   <br><b>top 10% worldwide</b>
@@ -44,6 +44,7 @@ You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.git
 <li>South Eastern European Mathematical Olympiad (SEEMOUS) 
   <br><b>Bronze Medal (2x)</b>
 </li> 
+</p>
 </p>
 
 
