@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p><img src="../images/bio3.jpg" width="30%" style="margin-left: 30px; float:right; margin-bottom: 25px;">
+<p><img src="../images/bio3.jpg" width="30%" style="margin-left: 10px; float:right; margin-bottom: 5px;">
 <span>
 I am a PhD student in Computer Science at JHU,<br> 
 working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html)"> Renè Vidal</a>.  
@@ -30,7 +30,7 @@ on the intersection of theoretical computer science and opinion dynamics.
 I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
 <br>
 <br>
-You can find my CV <a href="https://github.com/emmanouilidisk/emmanouilidisk.github.io/tree/master/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.
+You can find my CV <a href="/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.
 </p>
 <h3>Selected Honors & Awards</h3>  
 <li>International Mathematics Competition (IMC)  
