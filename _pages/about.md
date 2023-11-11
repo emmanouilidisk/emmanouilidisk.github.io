@@ -10,7 +10,7 @@ redirect_from:
 <p  style="font-size:17px;"><img src="../images/bio3.jpg" width="30%" style="margin-left: 10px; float:right; margin-bottom: 5px;">
 <span style="font-size:17;">
 I am a PhD student in Computer Science at JHU,<br> 
-working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html)"> Renè Vidal</a>.  
+working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html"> Renè Vidal</a>.  
 <br>
 <p style="font-size:17px;">
 I am interested in algorithms for machine learning and optimization <br>  
