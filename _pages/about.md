@@ -7,31 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p  style="font-size:17px;"><img src="../images/bio3.jpg" width="30%" style="margin-left: 10px; float:right; margin-bottom: 5px;">
-<span style="font-size:17;">
-I am a PhD student in Computer Science at JHU,<br> 
-working with Professor <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html"> Renè Vidal</a>.  
-<br>
-<p style="font-size:17px;">
-I am interested in algorithms for machine learning and optimization <br>  
-with the higher goal of providing theoretical guarantees for the <br>  
-reliable and successful use of machine learning algorithms. 
-</p>
-</span>
-<p style="font-size:17px;">
-To achieve this, I enjoy combining my diverse research interests:   
-<br>
-machine learning, (multi-agent) optimization, theoretical computer science and game theory.
-</p>
-<p style="font-size:17px;">
-Prior, I worked with Professor <a href="https://www.softlab.ntua.gr/~fotakis/"> Dimitris Fotakis</a> and Professor <a href="https://euclid.ee.duth.gr/"> Pavlos Efraimidis</a>  <br>
-on the intersection of theoretical computer science and opinion dynamics.   
-<br>
-I received a joint BSc - MSc in Electrical and Computer Engineering from Greece.   
-<br>
-<br>
-You can find my CV <a href="/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> here</a>.
-</p>
+<p><img src="../images/bio3.jpg" width="30%" style="margin-left: 30px; float:right; margin-bottom: 25px;">
+<span>
+I am a PhD student in Computer Science at JHU, advised by <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html"> Renè Vidal</a>.
+<br><br>I am also affiliated with the Mathematical Institute of Data Science (MINDS).
+<br> <br>Research Interests: (multi-agent) optimization, deep learning theory, theoretical computer science and game theory.<br>
+
+</span></p>
+
 <h3>Selected Honors & Awards</h3>  
 <li style="font-size:17px;">International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
@@ -43,4 +26,16 @@ You can find my CV <a href="/images/Resume_Emmanouilidis_Konstantinos_a.pdf"> he
 <span style="position: relative; left: +1.35em;font-size:16px;"> <br><b>Bronze Medal (2x)</b></span>
 </li> 
 
+<h3>Publications &amp; Research</h3>
+<li style="font-size:17px;">Stochastic Extragradient with Random Reshuffling: Improved Convergence for Variational Inequalities  
+  <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Rene Vidal, Nicolas Loizou</i></span> 
+</li>
+<li style="font-size:17px;">Opinion Dynamics in Graphs with Hidden Links
+  <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis</i></span>
+</li> 
 
+<br>
+<br>
+<b>Recent updates:</b>
+<li style="font-size:17px;">I have been awarded the MINDS Fellowhip!<br> </li>
+<li style="font-size:17px;">Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024!<br> </li>
