@@ -16,26 +16,26 @@ I am a PhD student in Computer Science at JHU, advised by <a href="https://nicol
 </span></p>
 
 <h3>Selected Honors & Awards</h3>  
-<li style="font-size:17px;">International Mathematics Competition (IMC)  
+<li>International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
 </li>
-<li style="font-size:17px;">IEEExtreme 13.0 Collegiate Programming Competition 
+<li>IEEExtreme 13.0 Collegiate Programming Competition 
   <br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
 </li> 
-<li style="font-size:17px;">South Eastern European Mathematical Olympiad (SEEMOUS) 
+<li">South Eastern European Mathematical Olympiad (SEEMOUS) 
 <span style="position: relative; left: +1.35em;font-size:16px;"> <br><b>Bronze Medal (2x)</b></span>
 </li> 
 
 <h3>Publications &amp; Research</h3>
-<li style="font-size:17px;">Stochastic Extragradient with Random Reshuffling: Improved Convergence for Variational Inequalities  
+<li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for Variational Inequalities  
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Rene Vidal, Nicolas Loizou</i></span> 
 </li>
-<li style="font-size:17px;">Opinion Dynamics in Graphs with Hidden Links
+<li>Opinion Dynamics in Graphs with Hidden Links
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis</i></span>
 </li> 
 
 <br>
-<br>
 <b>Recent updates:</b>
-<li style="font-size:17px;">I have been awarded the MINDS Fellowhip!<br> </li>
-<li style="font-size:17px;">Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024!<br> </li>
+<br>
+<li>I have been awarded the MINDS Fellowhip! </li>
+<li>Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
