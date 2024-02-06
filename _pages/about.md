@@ -22,12 +22,12 @@ I am a PhD student in Computer Science at JHU, advised by <a href="https://nicol
 <li>IEEExtreme 13.0 Collegiate Programming Competition 
   <br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
 </li> 
-<li">South Eastern European Mathematical Olympiad (SEEMOUS) 
+<li>South Eastern European Mathematical Olympiad (SEEMOUS) 
 <span style="position: relative; left: +1.35em;font-size:16px;"> <br><b>Bronze Medal (2x)</b></span>
 </li> 
 
 <h3>Publications &amp; Research</h3>
-<li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for Variational Inequalities  
+<li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs  
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Rene Vidal, Nicolas Loizou</i></span> 
 </li>
 <li>Opinion Dynamics in Graphs with Hidden Links
@@ -36,6 +36,5 @@ I am a PhD student in Computer Science at JHU, advised by <a href="https://nicol
 
 <br>
 <b>Recent updates:</b>
-<br>
 <li>I have been awarded the MINDS Fellowhip! </li>
 <li>Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
