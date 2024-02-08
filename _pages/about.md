@@ -37,7 +37,7 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
 <br>
-</p>
+
 <b>Recent updates:</b>
 <li>I have been awarded the MINDS Fellowhip! </li>
 <li>Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
