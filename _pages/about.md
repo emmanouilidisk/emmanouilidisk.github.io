@@ -13,7 +13,8 @@ I am a PhD student in Computer Science at JHU, advised by <a href="https://nicol
 <br><br>I am also affiliated with the Mathematical Institute of Data Science (MINDS).
 <br> <br>Research Interests: (multi-agent) optimization, deep learning theory, theoretical computer science and game theory.<br>
 
-</span></p>
+</span>
+</p>
 
 <h3>Selected Honors & Awards</h3>  
 <li>International Mathematics Competition (IMC)  
@@ -31,10 +32,10 @@ I am a PhD student in Computer Science at JHU, advised by <a href="https://nicol
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Rene Vidal, Nicolas Loizou</i></span> 
 </li>
 <li>Opinion Dynamics in Graphs with Hidden Links
-  <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis</i></span>
+  <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
-
 <br>
+
 <b>Recent updates:</b>
 <li>I have been awarded the MINDS Fellowhip! </li>
 <li>Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
