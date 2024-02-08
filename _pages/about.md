@@ -39,5 +39,5 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
 <br>
 
 <b>Recent updates:</b>
-<li>I have been awarded the MINDS Fellowhip! </li>
-<li>Our paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
+<li>I have been awarded the 2024 MINDS Fellowship </li>
+<li>A paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
