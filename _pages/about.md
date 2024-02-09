@@ -17,7 +17,13 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
 <br>
 </span>
 </p>
-<div style="text-align: center; margin-right: 40%">  ------------------- <a href="/_pages/Resume_Emmanouilidis_Konstantinos_a.pdf">CV</a> | <a href="http://www.linkedin.com/emmanouilidisk"><i class="fab fa-linkedin"></i></a> | <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> ------------------- </div>
+<div style="text-align: center; margin-right: 40%"> 
+  ------------------- 
+  <a href="/_pages/Resume_Emmanouilidis_Konstantinos_a.pdf">CV</a> | 
+  <a href="http://www.linkedin.com/emmanouilidisk"><i class="fab fa-linkedin"></i></a> | 
+  <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a>
+  ------------------- 
+</div>
 <h3>Selected Honors & Awards</h3>  
 <li>International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
