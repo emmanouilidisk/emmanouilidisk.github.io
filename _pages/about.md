@@ -20,9 +20,9 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
 <div style="text-align: center; margin-right: 40%"> 
   ------------------- 
   <a href="/_pages/Resume_Emmanouilidis_Konstantinos_a.pdf">CV</a> | 
-  <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a>
+  <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> |
   <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> | 
-  <a href="https://github.com/emmanouilidisk"><i class="fa-brands fa-github"></i></a>
+  <i class="fa">&#xf09b;<a href="https://github.com/emmanouilidisk"></i>
   ------------------- 
 </div>
 <h3>Selected Honors & Awards</h3>  
