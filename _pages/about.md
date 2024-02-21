@@ -39,7 +39,7 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
 <h3>Publications &amp; Research</h3>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Rene Vidal, Nicolas Loizou</i>
-  <br> <span style="position: relative; left: +1.35em;"><i>AISTATS 2024</i>
+  <br> <i>AISTATS 2024</i>
 </li>
 <li>Opinion Dynamics in Graphs with Hidden Links
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
