@@ -23,7 +23,7 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
   <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> |
   <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> | 
   <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a>
-  ------------------- 
+  ------------------ 
 </div>
 <h3>Selected Honors & Awards</h3>  
 <li>International Mathematics Competition (IMC)  
@@ -40,7 +40,6 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Rene Vidal, Nicolas Loizou</i>
   <br> <i>AISTATS 2024</i>
-</li>
 <li>Opinion Dynamics in Graphs with Hidden Links
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
