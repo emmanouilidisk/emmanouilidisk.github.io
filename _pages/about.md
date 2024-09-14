@@ -32,7 +32,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   <br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
 </li> 
 <li>South Eastern European Mathematical Olympiad (SEEMOUS) 
-<span style="position: relative; left: +1.35em;font-size:16px;"><b>Bronze Medal (2x)</b></span>
+<br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal (2x) </b></span>
 </li> 
 
 <h3>Publications &amp; Research</h3>
