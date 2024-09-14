@@ -7,23 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p><img src="../images/bio3.jpg" width="30%" style="margin-left: 30px; float:right; margin-bottom: 25px;">
+<p><img src="../images/bio3.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 25px;">
 <span>
-I am a PhD student in Computer Science at JHU, advised by <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html"> Renè Vidal</a>.
-<br><br>I am also affiliated with the Mathematical Institute of Data Science (MINDS).
-<br> <br>
-
-Research Interests: (multi-agent) optimization, deep learning theory, theoretical computer science and game theory.
+I am a PhD student in Computer Science at JHU, advised by <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html"> Renè Vidal</a>. I am also affiliated with the Mathematical Institute of Data Science.
 <br>
+
+My research interests lie in the intersection of Optimization with Machine Learning, Game Theory and theoretical computer science.
+<br>
+
+Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I had the pleasure of working with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
 </span>
 </p>
-<div style="text-align: center; margin-right: 40%"> 
-  ------------------- 
-  <a href="/_pages/Resume_Emmanouilidis_Konstantinos.pdf">CV</a> | 
-  <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> |
-  <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> | 
-  <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a>
-  ------------------ 
+<div style="text-align: center; margin-right: 40%">
+  [ <a href="/_pages/Resume_Emmanouilidis_Konstantinos.pdf">CV</a> ]   
+  [ <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> ]  
+  [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
+  [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
 <h3>Selected Honors & Awards</h3>  
 <li>International Mathematics Competition (IMC)  
@@ -33,7 +32,7 @@ Research Interests: (multi-agent) optimization, deep learning theory, theoretica
   <br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
 </li> 
 <li>South Eastern European Mathematical Olympiad (SEEMOUS) 
-<span style="position: relative; left: +1.35em;font-size:16px;"> <br><b>Bronze Medal (2x)</b></span>
+<span style="position: relative; left: +1.35em;font-size:16px;"><b>Bronze Medal (2x)</b></span>
 </li> 
 
 <h3>Publications &amp; Research</h3>
