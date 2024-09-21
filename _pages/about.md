@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-Welcome! I am a PhD student in Computer Science at JHU, advised by <a href="https://nicolasloizou.github.io/"> Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html"> Renè Vidal</a>. I am also affiliated with the Mathematical Institute of Data Science.
+I am a PhD student in the Computer Science department at JHU, being co-advised by Nicolas Loizou and Renè Vidal. I am also affiliated with the Mathematical Institute of Data Science.
 <br>
 <br>
 
@@ -17,7 +17,7 @@ My research interests lie in the intersection of Optimization with Machine Learn
 <br>
 <br>
 
-Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I was working with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
+Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering and I worked with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
 </span>
 </p>
 <div style="text-align: center; margin-right: 10%">
