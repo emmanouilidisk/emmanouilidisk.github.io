@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student in the Computer Science department at JHU, being co-advised by Nicolas Loizou and Renè Vidal. I am also affiliated with the Mathematical Institute of Data Science.
+I am a PhD student in the Computer Science department at JHU, being co-advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also affiliated with the Mathematical Institute of Data Science.
 <br>
 <br>
 
