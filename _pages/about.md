@@ -26,7 +26,14 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
-<h3>Selected Honors & Awards</h3>  
+<h2>Research!</h2>
+I am deeply passionate about uncovering how AI models work at a foundational level. Through the lens of algorithms and optimization, I am interested in developing the theoretical foundations that support today's machine learning systems. I believe that by truly understanding these frameworks, we can ensure AI's safe, reliable, and impactful integration into our everyday lives.   
+
+<br>  
+
+Beyond the single-agent setting, I am interested also in interactions taking place in multi-agent settings. In such complex environments, multiple (AI)-agents are interacting with each other, each driven by their own incentives and goals. In that sense, I am particularly passionate about blending game theory with optimization approaches for coordinating the interactions of the different agents and ensuring the successful use of the system as a whole. 
+
+<h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
 </li>
@@ -37,7 +44,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
 <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal (2x) </b></span>
 </li> 
 
-<h3>Publications &amp; Research</h3>
+<h2>Publications &amp; Research</h2>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
@@ -45,7 +52,6 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
 
-<br>
-<b>Recent updates:</b>
+<h2>Recent updates:</h2>
 <li>I have been awarded the 2024 MINDS Fellowship </li>
 <li>A paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
