@@ -27,11 +27,9 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
 <h2>Research!</h2>
-I am deeply passionate about uncovering how AI models work at a foundational level. Through the lens of algorithms and optimization, I am interested in developing the theoretical foundations that support today's machine learning systems. I believe that by truly understanding these frameworks, we can ensure AI's safe, reliable, and impactful integration into our everyday lives.   
+I am deeply passionate about understanding how AI models work at a foundational level. Through the lens of algorithms and optimization, I am interested in developing the theoretical foundations that support today's machine learning systems. I believe that by truly understanding and establishing a good scientific framework, we can ensure AI's safe, reliable, and impactful integration into our everyday lives.   
 
-<br>  
-
-Beyond the single-agent setting, I am interested also in interactions taking place in multi-agent settings. In such complex environments, multiple (AI)-agents are interacting with each other, each driven by their own incentives and goals. In that sense, I am particularly passionate about blending game theory with optimization approaches for coordinating the interactions of the different agents and ensuring the successful use of the system as a whole. 
+Beyond the single-agent setting, I am, also, interested in interactions taking place in multi-agent environments. In such complex environments, multiple (AI)-agents are interacting with each other, each driven by their own incentives and goals. In that sense, I enjoy blending game theoretic concepts with optimization approaches for coordinating the interactions of the different agents and ensuring the successful use of the system as a whole. 
 
 <h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
