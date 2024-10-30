@@ -9,11 +9,11 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student in the Computer Science department at JHU, being co-advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also affiliated with the Mathematical Institute of Data Science.
+I am a PhD student in the Computer Science Department at JHU, being co-advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also a Visiting Student at UPenn, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
 <br>
 <br>
 
-My research interests lie in the intersection of Optimization with Machine Learning, Game Theory and Theoretical computer science.
+My research interests lie in the intersection of machine learning theory, (multi-agent) optimization, Game Theory and Theoretical computer science.
 <br>
 <br>
 
@@ -27,7 +27,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
 <h2>Research!</h2>
-I am deeply passionate about understanding how AI models work at a foundational level. Through the lens of algorithms and optimization, I am interested in developing the theoretical foundations that characterize today's learning systems. I believe that by truly understanding and establishing a good scientific framework, we can ensure AI's safe, reliable, and impactful integration into our everyday lives.   
+I am deeply passionate about understanding how AI models work at a foundational level. Through a blend of algorithmic and optimization techniques, I am interested in developing the theoretical foundations that characterize today's learning systems. I believe that by truly understanding and establishing a good scientific framework, we can ensure AI's safe, reliable, and impactful integration into our everyday lives.   
 
 Beyond single-agent applications, I am, also, interested in interactions taking place in multi-agent environments. In such complex environments, multiple (AI)-agents are interacting with each other, each driven by their own incentives and goals. In that sense, I enjoy blending game theoretic concepts with optimization approaches for coordinating the interactions of the different agents and ensuring the successful function of the system as a whole. 
 
