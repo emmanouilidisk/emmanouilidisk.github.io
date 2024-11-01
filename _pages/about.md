@@ -27,9 +27,11 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
 <h2>Research!</h2>
-I am deeply passionate about understanding how AI models work at a foundational level. Through a blend of algorithmic and optimization techniques, I am interested in developing the theoretical foundations that characterize today's learning systems. I believe that by truly understanding and establishing a good scientific framework, we can ensure AI's safe, reliable, and impactful integration into our everyday lives.   
+I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
 
-Beyond single-agent applications, I am, also, interested in interactions taking place in multi-agent environments. In such complex environments, multiple (AI)-agents are interacting with each other, each driven by their own incentives and goals. In that sense, I enjoy blending game theoretic concepts with optimization approaches for coordinating the interactions of the different agents and ensuring the successful function of the system as a whole. 
+I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on individual goals and incentives. In such intricate environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions cohesively and effectively. 
+
+If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
 
 <h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
@@ -43,6 +45,14 @@ Beyond single-agent applications, I am, also, interested in interactions taking 
 </li> 
 
 <h2>Publications &amp; Research</h2>
+<h3> Working Papers </h3>
+<li>Robustifying Deep Networks through LLMs and Semantic Information
+  
+<li> Relaxed Coherence Condition for Minimization Problems
+
+<li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities
+</li>
+<h3> Completed Projects </h3>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
