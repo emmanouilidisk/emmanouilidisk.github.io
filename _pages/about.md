@@ -47,9 +47,7 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 <h2>Publications &amp; Research</h2>
 <b> Working Papers </b>
 <li>Robustifying Deep Networks through LLMs and Semantic Information
-  
 <li> Relaxed Coherence Condition for Minimization Problems
-
 <li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities
 </li>
 <b> Completed Projects </b>
@@ -61,9 +59,9 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 </li> 
 
 <h2>Professional Service</h2>
-<li>Reviewer: ICLR 2024, ICML 2024, JMRL 2024 </li>
-<li>Organizer: Workshop on Federated Learning, NeurIPS</li>
-<li>Volunteer: Deepmath 2024</li>
+<li>Reviewer: ICLR 2024, ICML 2024, JMRL 2024
+<li>Organizer: Workshop on Federated Learning, NeurIPS
+<li>Volunteer: Deepmath 2024
 </li> 
 
 <h2>Recent updates:</h2>
