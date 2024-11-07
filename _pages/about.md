@@ -13,7 +13,7 @@ I am a PhD student in the Computer Science Department at JHU, being co-advised b
 <br>
 <br>
 
-My research interests lie in the intersection of machine learning theory, (multi-agent) optimization, Game Theory and Theoretical computer science.
+My research interests lie in the intersection of Machine Learning theory, (multi-agent) Optimization, Game Theory and Theoretical Computer Science.
 <br>
 <br>
 
@@ -29,7 +29,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
 <h2>Research!</h2>
 I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
 
-I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on individual goals and incentives. In such intricate environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions cohesively and effectively. 
+I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on their individual goals and incentives. In such complex environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions effectively. 
 
 If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
 
@@ -45,19 +45,25 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 </li> 
 
 <h2>Publications &amp; Research</h2>
-<h3> Working Papers </h3>
+<b> Working Papers </b>
 <li>Robustifying Deep Networks through LLMs and Semantic Information
   
 <li> Relaxed Coherence Condition for Minimization Problems
 
 <li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities
 </li>
-<h3> Completed Projects </h3>
+<b> Completed Projects </b>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
 <li>Opinion Dynamics in Graphs with Hidden Links
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
+</li> 
+
+<h2>Professional Service</h2>
+<li>Reviewer: ICLR 2024, ICML 2024, JMRL 2024 </li>
+<li>Organizer: Workshop on Federated Learning, NeurIPS</li>
+<li>Volunteer: Deepmath 2024</li>
 </li> 
 
 <h2>Recent updates:</h2>
