@@ -13,7 +13,7 @@ I am a PhD student in the Computer Science Department at JHU, being co-advised b
 <br>
 <br>
 
-My research interests lie in the intersection of Machine Learning theory, (multi-agent) Optimization, Game Theory and Theoretical Computer Science.
+My research interests lie in the intersection of Machine Learning Theory, (multi-agent) Optimization, Game Theory and Theoretical Computer Science.
 <br>
 <br>
 
@@ -45,12 +45,10 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 </li> 
 
 <h2>Publications &amp; Research</h2>
-<b> Working Papers </b>
-<li>Robustifying Deep Networks through LLMs and Semantic Information
-<li> Relaxed Coherence Condition for Minimization Problems
-<li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities
+<li>Robustifying Deep Networks through LLMs and Semantic Information (<i>under preparation</i>)
+<li> Relaxed Coherence Condition for Minimization Problems (<i>under preparation</i>)
+<li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities (<i>under preparation</i>)
 </li>
-<b> Completed Projects </b>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
@@ -63,7 +61,3 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 <li>Organizer: Workshop on Federated Learning, NeurIPS
 <li>Volunteer: Deepmath 2024
 </li> 
-
-<h2>Recent updates:</h2>
-<li>I have been awarded the 2024 MINDS Fellowship </li>
-<li>A paper on minimax optimization and random reshuffling was accepted to AISTATS 2024! </li>
