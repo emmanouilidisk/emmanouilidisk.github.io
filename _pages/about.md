@@ -58,6 +58,6 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 
 <h2>Professional Service</h2>
 <li>Reviewer: ICLR 2024, ICML 2024, JMRL 2024
-<li>Organizer: Workshop on Federated Learning, NeurIPS
+<li>Organizer: Workshop on Machine Learning and Optimization, IEEE CISS 2023
 <li>Volunteer: Deepmath 2024
 </li> 
