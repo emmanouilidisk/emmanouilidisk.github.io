@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p><img src="../images/bio-photo_grey_background.png" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
+<p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
 I am a PhD student in the Computer Science Department at JHU, being co-advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also a Visiting Student at UPenn, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
 <br>
