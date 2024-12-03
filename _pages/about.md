@@ -26,14 +26,14 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
-<h2 "style: font-family: Times;">Research!</h2>
+<h2>Research!</h2>
 I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
 
 I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on their individual goals and incentives. In such complex environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions effectively. 
 
 If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
 
-<h2 "style: font-family: Times;">Selected Honors & Awards</h2>  
+<h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
 </li>
@@ -44,7 +44,7 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal (2x) </b></span>
 </li> 
 
-<h2 "style: font-family: Times;">Publications &amp; Research</h2>
+<h2>Publications &amp; Research</h2>
 <li>Robustifying Deep Networks through LLMs and Semantic Information (<i>under preparation</i>)
 <li> Relaxed Coherence Condition for Minimization Problems (<i>under preparation</i>)
 <li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities (<i>under preparation</i>)
@@ -56,7 +56,7 @@ If you are interested in any of the above ideas, feel free to send me an <a href
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
 
-<h2 "style: font-family: Times;">Professional Service</h2>
+<h2>Professional Service</h2>
 <li>Reviewer: ICLR 2024, ICML 2024, JMRL 2024, AISTATS 2025
 <li>Organizer: Workshop on Machine Learning and Optimization, IEEE CISS 2023
 <li>Volunteer: Deepmath 2024
