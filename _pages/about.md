@@ -21,7 +21,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
 </span>
 </p>
 <div style="text-align: center; margin-right: 10%">
-  [ <a href="/_pages/Resume_Konstantinos_Emmanouilidis.pdf">CV</a> ]   
+  [ <a href="/_pages/Resume_Emmanouilidis_Konstantinos.pdf">CV</a> ]   
   [ <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> ]  
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
