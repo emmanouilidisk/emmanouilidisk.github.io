@@ -9,15 +9,15 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student in the Computer Science Department at JHU, being co-advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also a Visiting Student at UPenn, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
+I am a PhD student in the Computer Science Department at JHU, being advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. During 2024 - 2025, I am also a Research Associate at the University of Pennsylvania (UPenn), working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
 <br>
 <br>
 
-My research interests lie in the intersection of Machine Learning Theory, (multi-agent) Optimization, Game Theory and Theoretical Computer Science.
+My research interests lie at the intersection of multi-agent optimization, deep learning theory and theoretical computer science.
 <br>
 <br>
 
-Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering and I worked with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
+Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I worked with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
 </span>
 </p>
 <div style="text-align: center; margin-right: 10%">
@@ -26,12 +26,11 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
-<h2>Research!</h2>
+<!-- <h2>Research!</h2>
 I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
-
 I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on their individual goals and incentives. In such complex environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions effectively. 
-
 If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
+-->
 
 <h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
@@ -45,9 +44,10 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 </li> 
 
 <h2>Publications &amp; Research</h2>
-<li>Robustifying Deep Networks through LLMs and Semantic Information (<i>under preparation</i>)
+<!-- <li>Robustifying Deep Networks through LLMs and Semantic Information (<i>under preparation</i>)
 <li> Relaxed Coherence Condition for Minimization Problems (<i>under preparation</i>)
 <li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities (<i>under preparation</i>)
+-->
 </li>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
