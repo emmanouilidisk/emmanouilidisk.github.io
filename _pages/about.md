@@ -47,8 +47,9 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 <!-- <li>Robustifying Deep Networks through LLMs and Semantic Information (<i>under preparation</i>)
 <li> Relaxed Coherence Condition for Minimization Problems (<i>under preparation</i>)
 <li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities (<i>under preparation</i>)
--->
+
 </li>
+-->
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
