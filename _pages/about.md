@@ -9,15 +9,15 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student in the Computer Science Department at JHU, being advised by <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a> and <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. During 2024 - 2025, I am also a Research Associate at the University of Pennsylvania (UPenn), working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
+I am a PhD student in the Computer Science Department at JHU, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a> and <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a>. During 2024 - 2025, I am also a Research Associate at the University of Pennsylvania (UPenn), working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
 <br>
 <br>
 
-My research interests lie at the intersection of multi-agent optimization, deep learning theory and theoretical computer science.
+My research interests lie at the intersection of (multi-agent) optimization, deep learning theory and theoretical computer science.
 <br>
 <br>
 
-Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I worked with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
+Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I had the fortune of working with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
 </span>
 </p>
 <div style="text-align: center; margin-right: 10%">
