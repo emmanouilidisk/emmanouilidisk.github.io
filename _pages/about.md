@@ -17,7 +17,7 @@ My research interests lie at the intersection of (multi-agent) optimization, dee
 <br>
 <br>
 
-Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I had the fortune of working with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
+Before coming to the States, I graduated with a Diploma in Electrical and Computer Engineering from Greece, where I worked with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on the intersection of opinion dynamics and theoretical computer science. 
 </span>
 </p>
 <div style="text-align: center; margin-right: 10%">
