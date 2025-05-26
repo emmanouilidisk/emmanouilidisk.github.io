@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student in the Computer Science Department at JHU, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a> and <a href="https://nicolasloizou.github.io/">Nicolas Loizou</a>. During 2024 - 2025, I am also a Research Associate at the University of Pennsylvania (UPenn), working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>.
+I am a PhD student at the Computer and Information Sciences Department of University of Pennsylvania, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am affiliated with the GRASP lab. 
 <br>
 <br>
 
@@ -50,6 +50,9 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 
 </li>
 -->
+<li>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice
+  <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
+  <br> <i>(Under Submission) </i>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
   <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
