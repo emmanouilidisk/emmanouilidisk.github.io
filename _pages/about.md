@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student at the Computer and Information Sciences Department of University of Pennsylvania, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am affiliated with the GRASP lab. 
+I am a PhD student at the Computer and Information Sciences Department of University of Pennsylvania, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also affiliated with the GRASP lab at UPenn. 
 <br>
 <br>
 
