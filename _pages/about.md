@@ -9,11 +9,11 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student at the Computer and Information Sciences Department of University of Pennsylvania, working with <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also affiliated with the GRASP lab at UPenn. 
+I am a PhD student in the Computer and Information Sciences Department at University of Pennsylvania (UPenn) being advised by <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also affiliated with the GRASP lab at UPenn. 
 <br>
 <br>
 
-My research interests lie at the intersection of (multi-agent) optimization, deep learning theory and theoretical computer science.
+My research interests lie at the intersection of (multi-agent) optimization with deep learning theory and game theory with theoretical computer science.
 <br>
 <br>
 
@@ -26,10 +26,10 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
-<!-- <h2>Research!</h2>
+<h2>Research!</h2>
 I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
 I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on their individual goals and incentives. In such complex environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions effectively. 
-If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
+<!-- If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
 -->
 
 <h2>Selected Honors & Awards</h2>  
@@ -51,11 +51,13 @@ If you are interested in any of the above ideas, feel free to send me an <a href
 </li>
 -->
 <li>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice
-  <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
+  <br> <span style="position: relative; left: +1.35em;"><i><b>Konstantinos Emmanouilidis</b>, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <i> </i>
 <li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
-  <br> <span style="position: relative; left: +1.35em;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
-  <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024), <a href="https://arxiv.org/abs/2403.07148"> Arxiv</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> Code </a></i>
+  <br> <span style="position: relative; left: +1.35em;"><i><b>Konstantinos Emmanouilidis</b>, Renè Vidal, Nicolas Loizou</i>
+  <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024),   
+</i>
+<br> <a href="https://arxiv.org/abs/2403.07148"> [Arxiv]</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> [Code] </a>
 <li>Opinion Dynamics in Graphs with Hidden Links
   <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
