@@ -9,8 +9,12 @@ redirect_from:
 ---
 <p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a PhD student in the Computer and Information Sciences Department at University of Pennsylvania (UPenn) being advised by <a href="http://vision.jhu.edu/rvidal.html">Renè Vidal</a>. I am also affiliated with the GRASP lab at UPenn. 
-<br>
+I am a Ph.D. student in the 
+    <a href="https://www.cis.upenn.edu/">Department of Computer and Information Science</a> at the 
+    <a href="https://www.upenn.edu/">University of Pennsylvania</a>, advised by 
+    <a href="http://vision.jhu.edu/rvidal.html">René Vidal</a>. 
+    I am also affiliated with the <a href="https://www.grasp.upenn.edu/">GRASP Laboratory</a>.
+    <br>
 <br>
 
 My research interests lie at the intersection of (multi-agent) optimization with deep learning theory and game theory with theoretical computer science.
@@ -27,10 +31,19 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
 <h2>Research!</h2>
-I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
+<!--I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
 I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on their individual goals and incentives. In such complex environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions effectively. 
 <!-- If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
 -->
+
+I am deeply interested in understanding the fundamental principles that govern modern AI systems. My work focuses on developing rigorous theoretical frameworks for machine learning, drawing on tools from optimization, game theory, and theoretical computer science.  
+
+In particular, I study:  
+- **Optimization dynamics:** Understanding large-scale learning through the lens of variational inequalities and stochastic methods.  
+- **Multi-agent interactions:** Designing principled frameworks where agents with distinct objectives interact, cooperate, or compete.
+- **Robust learning systems:** Building certifiable guarantees for safe and reliable AI.   
+
+Ultimately, my goal is to bridge theory and practice to ensure that AI is not only powerful, but also trustworthy and beneficial in real-world settings.  
 
 <h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
