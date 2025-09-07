@@ -26,12 +26,12 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
 </p>
 <div style="text-align: center; margin-right: 10%">
   [ <a href="/_pages/Resume_Emmanouilidis_Konstantinos.pdf">CV</a> ]   
-  [ <a href="mailto:emmanouilidis.kons@gmail.com"><i class="fas fa-envelope"></i></a> ]  
+  [ <a href="https://scholar.google.com/citations?user=D1tFaHgAAAAJ&hl=el"><i class="fas fa-sch"></i></a> ]  
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
-<h2>Research!</h2>
-<!--I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
+<!-- <h2>Research!</h2>
+I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
 I am, also, fascinated by the dynamics in multi-agent environments, where (AI) agents interact and make decisions based on their individual goals and incentives. In such complex environments, I enjoy merging game theory with optimization to orchestrate meaningful interactions between agents, ensuring that the whole system functions effectively. 
 <!-- If you are interested in any of the above ideas, feel free to send me an <a href="mailto:emmanouilidis.kons@gmail.com">email</a>!  
 -->
@@ -44,7 +44,7 @@ In particular, I study:
 - **Robust learning systems:** Building certifiable guarantees for safe and reliable AI.   
 
 Ultimately, my goal is to bridge theory and practice to ensure that AI is not only powerful, but also trustworthy and beneficial in real-world settings.  
-
+-->
 <h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
   <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
