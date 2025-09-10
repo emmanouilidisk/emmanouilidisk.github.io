@@ -7,11 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p><img src="../images/bio1.jpg" width="25%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
+<p><img src="../images/bio3.jpg" width="35%" style="margin-left: 30px; float:right; margin-bottom: 10px;">
 <span>
-I am a Ph.D. student in the 
-    <a href="https://www.cis.upenn.edu/">Department of Computer and Information Science</a> at the 
-    <a href="https://www.upenn.edu/">University of Pennsylvania</a>, advised by 
+I am a Ph.D. student in the Department of Computer and Information Science at the 
+    <a href="https://www.cis.upenn.edu/">University of Pennsylvania</a>, advised by 
     <a href="http://vision.jhu.edu/rvidal.html">René Vidal</a>. 
     I am also affiliated with the <a href="https://www.grasp.upenn.edu/">GRASP Laboratory</a>.
     <br>
