@@ -50,22 +50,19 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 
 <h2>Selected Honors & Awards</h2>  
 <li>International Mathematics Competition (IMC)  
-  <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
+<br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal</b></span> 
 </li>
 <li>IEEExtreme 13.0 Collegiate Programming Competition 
-  <br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
+<br> <span style="position: relative; left: +1.35em;"><b>top 10% worldwide</b></span>
 </li> 
 <li>South Eastern European Mathematical Olympiad (SEEMOUS) 
 <br> <span style="position: relative; left: +1.35em;"><b>Bronze Medal (2x) </b></span>
 </li> 
 
 <h2>Publications &amp; Research</h2>
-<!-- <li>Robustifying Deep Networks through LLMs and Semantic Information (<i>under preparation</i>)
-<li> Relaxed Coherence Condition for Minimization Problems (<i>under preparation</i>)
-<li> Optimistic Extragradient Method with Random Reshuffling: Faster Convergence in Variational Inequalities (<i>under preparation</i>)
-
-</li>
--->
+<!-- <li> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers
+<br> <span style="position: relative; left: +1.35em;"><i><b>Konstantinos Emmanouilidis</b>, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
+  <br> <i> </i> -->
 <li>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice
   <br> <span style="position: relative; left: +1.35em;"><i><b>Konstantinos Emmanouilidis</b>, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <i> </i>
