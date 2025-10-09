@@ -72,7 +72,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 </i>
 <br> <a href="https://arxiv.org/abs/2403.07148"> [Arxiv]</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> [Code] </a>
 <li>Opinion Dynamics in Graphs with Hidden Links
-  <br> <span style="position: relative; left: +1.35em;"><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
+  <br> <span style="position: relative; "><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
 
 <h2>Professional Service</h2>
