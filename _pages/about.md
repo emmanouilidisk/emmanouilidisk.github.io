@@ -60,9 +60,12 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 </li> 
 
 <h2>Publications &amp; Research</h2>
-<!-- <li> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers
-<br> <span style="position: relative; left: +1.35em;"><i><b>Konstantinos Emmanouilidis</b>, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
-  <br> <i> </i> -->
+<li> Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD
+<br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Emmanuel V. Vlatakis, Renè Vidal</i>
+  <br> <i> </i>
+<li> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers
+<br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, <b>Konstantinos Emmanouilidis</b>, Tianjiao Ding, Renè Vidal</i>
+  <br> <i> </i>
 <li>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice
   <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <i> </i>
