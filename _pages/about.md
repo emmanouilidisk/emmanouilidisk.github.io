@@ -16,7 +16,7 @@ I am a Ph.D. student in the Department of Computer and Information Science at th
     <br>
 <br>
 
-My research interests lie at the intersection of (multi-agent) optimization with deep learning theory and game theory with theoretical computer science.
+My research interests lie at the theoretical foundations of deep learning and AI, (multi-agent) optimization and theoretical computer science.
 <br>
 <br>
 
@@ -25,7 +25,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
 </span>
 </p>
 <div style="text-align: center; margin-right: 10%">
-  [ <a href="/_pages/Resume_Emmanouilidis_Konstantinos.pdf">CV</a> ]  
+  [ <a href="/_pages/Resume_Konstantinos_Emmanouilidis_v2025.pdf">CV</a> ]  
   [ <a href="mailto:ekostas@seas.upenn.edu"><i class="fas fa-fw fa-envelope icon-pad-right"></i></a> ]  
   [ <a href="https://scholar.google.com/citations?user=D1tFaHgAAAAJ&hl=el"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i></a> ]  
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
@@ -49,19 +49,17 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 -->
 
 <h2>Selected Honors & Awards</h2>  
-<li>International Mathematics Competition (IMC)  
-<br> <span style="position: relative;"><b>Bronze Medal</b></span> 
-</li>
-<li>IEEExtreme 13.0 Collegiate Programming Competition 
-<br> <span style="position: relative;"><b>top 10% worldwide</b></span>
-</li> 
-<li>South Eastern European Mathematical Olympiad (SEEMOUS) 
+🏅  International Mathematics Competition (IMC)  
+<br> <span style="position: relative;"><b>Bronze Medal</b></span>    
+🏅 IEEExtreme 13.0 Collegiate Programming Competition 
+<br> <span style="position: relative;"><b>top 10% worldwide</b></span>   
+🏅 South Eastern European Mathematical Olympiad (SEEMOUS) 
 <br> <span style="position: relative;"><b>Bronze Medal (2x) </b></span>
-</li> 
+ 
 
 <h2>Publications &amp; Research</h2>
-<li> Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD
-<br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Emmanuel V. Vlatakis, Renè Vidal</i>
+<li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
+<br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanuel V. Vlatakis, Renè Vidal</i>
   <br> <i> </i>
 <li> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers
 <br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, <b>Konstantinos Emmanouilidis</b>, Tianjiao Ding, Renè Vidal</i>
