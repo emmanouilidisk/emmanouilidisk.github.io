@@ -61,18 +61,18 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 <li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
 <br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanouil V. Vlatakis, Renè Vidal</i>
   <br> <i> </i>
-<li> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers
-<br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, <b>Konstantinos Emmanouilidis</b>, Tianjiao Ding, Renè Vidal</i>
+<li> <b> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers</b>
+<br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, Renè Vidal</i>
   <br> <i> </i>
-<li>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice
-  <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
+<li><b>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice</b>
+  <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <i> </i>
-<li>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs
+<li><b>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs</b>
   <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024),   
 </i>
 <br> <a href="https://arxiv.org/abs/2403.07148"> [Arxiv]</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> [Code] </a>
-<li>Opinion Dynamics in Graphs with Hidden Links
+<li> <b>Opinion Dynamics in Graphs with Hidden Links</b>
   <br> <span style="position: relative; "><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
 </li> 
 
