@@ -49,13 +49,15 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 -->
 
 <h2>Selected Honors & Awards</h2>  
-🏅  International Mathematics Competition (IMC)  
-<span style="position: relative;"> <b>Bronze Medal</b></span>    
-🏅 IEEExtreme 13.0 Collegiate Programming Competition    
-<span style="position: relative;"><b>top 10% worldwide</b></span>   
-🏅 South Eastern European Mathematical Olympiad (SEEMOUS)    
+<li> International Mathematics Competition (IMC) 
+<span style="position: relative;"><b>Bronze Medal</b></span> </li>  
+<li> IEEExtreme 13.0 Collegiate Programming Competition    
+<span style="position: relative;"><b>top 10% worldwide</b></span>  
+</li>
+<li> South Eastern European Mathematical Olympiad (SEEMOUS)    
 <span style="position: relative;"><b>Bronze Medal (2x) </b></span>
- 
+</li>
+
 
 <h2>Publications &amp; Research</h2>
 <li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
@@ -65,7 +67,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 <br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, Renè Vidal</i>
   <br> <i> </i>
 <li><b>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice</b>
-  <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
+  <br> <span style="position: relative;"><i>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <i> </i>
 <li><b>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs</b>
   <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Renè Vidal, Nicolas Loizou</i>
