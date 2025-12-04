@@ -49,20 +49,20 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 -->
 
 <h2>Selected Honors & Awards</h2>  
-<li> International Mathematics Competition (IMC) 
+<li> International Mathematics Competition (IMC)   
 <span style="position: relative;"><b>Bronze Medal</b></span> </li>  
-<li> IEEExtreme 13.0 Collegiate Programming Competition    
+<li> IEEExtreme 13.0 Collegiate Programming Competition      
 <span style="position: relative;"><b>top 10% worldwide</b></span>  
 </li>
-<li> South Eastern European Mathematical Olympiad (SEEMOUS)    
+<li> South Eastern European Mathematical Olympiad (SEEMOUS)      
 <span style="position: relative;"><b>Bronze Medal (2x) </b></span>
 </li>
 
 
 <h2>Publications &amp; Research</h2>
-<li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
+<!-- <li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
 <br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanouil V. Vlatakis, Renè Vidal</i>
-  <br> <i> </i>
+  <br> <i> </i> -->
 <li> <b> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers</b>
 <br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, Renè Vidal</i>
   <br> <i> </i>
