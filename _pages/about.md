@@ -49,9 +49,9 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 -->
 
 <h2>Selected Honors & Awards</h2>  
-<li> International Mathematics Competition (IMC)   
+<li> International Mathematics Competition (IMC)         
 <span style="position: relative;"><b>Bronze Medal</b></span> </li>  
-<li> IEEExtreme 13.0 Collegiate Programming Competition      
+<li> IEEExtreme 13.0 Collegiate Programming Competition        
 <span style="position: relative;"><b>top 10% worldwide</b></span>  
 </li>
 <li> South Eastern European Mathematical Olympiad (SEEMOUS)      
