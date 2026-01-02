@@ -82,7 +82,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 </li> 
 
 <h2>Professional Service</h2>
-<li>Reviewer: ICML 2024, AISTATS 2025, 2026, ICLR 2026, JMRL
+<li>Reviewer: ICML 2024, 2026, JMRL 2024, AISTATS 2025, 2026, ICLR 2026, JMRL
 <li>Organizer: Workshop on Machine Learning and Optimization, IEEE CISS 2023
 <li>Volunteer: Deepmath 2024
 </li> 
