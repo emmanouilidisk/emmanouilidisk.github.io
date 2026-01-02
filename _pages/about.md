@@ -49,12 +49,15 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 -->
 
 <h2>Selected Honors & Awards</h2>  
-<li> International Mathematics Competition (IMC)         
+<li> International Mathematics Competition (IMC)  
+<br>
 <span style="position: relative;"><b>Bronze Medal</b></span> </li>  
-<li> IEEExtreme 13.0 Collegiate Programming Competition        
+<li> IEEExtreme 13.0 Collegiate Programming Competition 
+<br>
 <span style="position: relative;"><b>top 10% worldwide</b></span>  
 </li>
-<li> South Eastern European Mathematical Olympiad (SEEMOUS)      
+<li> South Eastern European Mathematical Olympiad (SEEMOUS)    
+<br>
 <span style="position: relative;"><b>Bronze Medal (2x) </b></span>
 </li>
 
@@ -70,7 +73,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
   <br> <span style="position: relative;"><i>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <i> </i>
 <li><b>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs</b>
-  <br> <span style="position: relative;"><i><b>Konstantinos Emmanouilidis</b>, Renè Vidal, Nicolas Loizou</i>
+  <br> <span style="position: relative;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024),   
 </i>
 <br> <a href="https://arxiv.org/abs/2403.07148"> [Arxiv]</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> [Code] </a>
@@ -79,7 +82,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 </li> 
 
 <h2>Professional Service</h2>
-<li>Reviewer: ICLR 2024, ICML 2024, JMRL 2024, AISTATS 2025, 2026, ICLR 2026
+<li>Reviewer: ICML 2024, AISTATS 2025, 2026, ICLR 2026, JMRL
 <li>Organizer: Workshop on Machine Learning and Optimization, IEEE CISS 2023
 <li>Volunteer: Deepmath 2024
 </li> 
