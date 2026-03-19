@@ -31,6 +31,14 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="http://www.linkedin.com/in/emmanouilidisk/"><i class="fab fa-linkedin"></i></a> ]   
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
+
+<h2>News!</h2>  
+<li> One paper accepted at ICLR 2026! </li>  
+<li> Visiting Simons NYC for Deep Learning Theory. Happy to connect and discuss research! 
+</li>
+<li> Presenting SEG-RR at JHU's MINDS Seminar.
+</li>
+
 <!--  
 <h2>Research!</h2>
 I am deeply passionate about understanding how AI really works at a foundational level. My research focuses on building the theoretical foundations that shape today’s learning systems, using a blend of algorithmic ideas and optimization techniques. I believe that only with a solid understanding and a strong scientific framework can we ensure the safe, reliable, and impactful integration of AI into our everyday lives.   
@@ -63,9 +71,9 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 
 
 <h2>Publications &amp; Research</h2>
-<!-- <li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
+<li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
 <br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanouil V. Vlatakis, Renè Vidal</i>
-  <br> <i> </i> -->
+  <br> <i> </i>
 <li> <b> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers</b>
 <br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, Renè Vidal</i>
   <br> <i> </i>
@@ -82,7 +90,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 </li> 
 
 <h2>Professional Service</h2>
-<li>Reviewer: ICML 2024, 2026, JMRL 2024, AISTATS 2025, 2026, ICLR 2026, JMRL
+<li>Reviewer: ICML 2026, AISTATS 2025, 2026, ICLR 2026, JMRL
 <li>Organizer: Workshop on Machine Learning and Optimization, IEEE CISS 2023
 <li>Volunteer: Deepmath 2024
 </li> 
