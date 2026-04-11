@@ -32,7 +32,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
   [ <a href="https://github.com/emmanouilidisk"><i class="fab fa-github"></i></a> ]  
 </div>
 
-<h2>News!</h2>  
+<h2>News</h2>  
 <li> One paper accepted at ICLR 2026! </li>  
 <li> Visiting Simons NYC for Deep Learning Theory. Happy to connect and discuss research! 
 </li>
@@ -73,13 +73,14 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 <h2>Publications &amp; Research</h2>
 <li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
 <br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanouil V. Vlatakis, Renè Vidal</i>
-  <br> <i> </i>
+  <br> <i>In the 14th International Conference of Learning Representations (ICLR 2026), </i>
+  <br> <a href="/_pages/Shuffle_arxiv_version.pdf"> [Paper]</a>
 <li> <b> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers</b>
 <br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, Renè Vidal</i>
-  <br> <i> </i>
+  <br> <a href="/_pages/_ICIP2026_Nghia__Sparse_Semantic_Defense__SSD_.pdf"> [Paper]</a> <i> </i>
 <li><b>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice</b>
   <br> <span style="position: relative;"><i>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
-  <br> <i> </i>
+  <br> <a href="Certifiably_Robust_Classifiers_for_Gaussians_Mixtures_in_Pretrained_Latent_Spaces.pdf"> [Paper]</a> <i> </i>
 <li><b>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs</b>
   <br> <span style="position: relative;"><i>Konstantinos Emmanouilidis, Renè Vidal, Nicolas Loizou</i>
   <br> <i>In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024),   
@@ -87,7 +88,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 <br> <a href="https://arxiv.org/abs/2403.07148"> [Arxiv]</a>, <a href="https://github.com/emmanouilidisk/Stochastic-ExtraGradient-with-Random-Reshuffling"> [Code] </a>
 <li> <b>Opinion Dynamics in Graphs with Hidden Links</b>
   <br> <span style="position: relative; "><i>Undergraduate Thesis, w/ Dimitris Fotakis, Pavlos Efraimidis</i></span>
-</li> 
+</li>
 
 <h2>Professional Service</h2>
 <li>Reviewer: ICML 2026, AISTATS 2025, 2026, ICLR 2026, JMRL
