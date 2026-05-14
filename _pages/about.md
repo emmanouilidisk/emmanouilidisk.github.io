@@ -16,7 +16,7 @@ I am a Ph.D. student in the Department of Computer and Information Science at th
     <br>
 <br>
 
-My research interests lie at the theoretical foundations of deep learning and AI, (multi-agent) optimization and theoretical computer science.
+My research interests lie at the theoretical foundations of deep learning, (multi-agent) optimization and theoretical computer science.
 <br>
 <br>
 
@@ -33,7 +33,7 @@ Before coming to the States, I graduated with a Diploma in Electrical and Comput
 </div>
 
 <h2>News</h2>  
-<li> One paper accepted at ICLR 2026! </li>  
+<li> Two papers accepted at ICLR 2026! </li>  
 <li> Visiting Simons NYC for Deep Learning Theory. Happy to connect and discuss research! 
 </li>
 <li> Presenting SEG-RR at JHU's MINDS Seminar.
@@ -72,12 +72,13 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 
 <h2>Publications &amp; Research</h2>
 <li> <b>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD </b>
-<br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanouil V. Vlatakis, Renè Vidal</i>
+<br> <span style="position: relative;"><i> Konstantinos Emmanouilidis, Emmanouil-Vasileios Vlatakis-Gkaragkounis, Renè Vidal</i>
   <br> <i>In the 14th International Conference of Learning Representations (ICLR 2026), </i>
-  <br> <a href="/_pages/Shuffle_arxiv_version.pdf"> [Paper]</a>
-<li> <b> SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers</b>
+  <br> <a href="https://arxiv.org/abs/2604.10373"> [Paper]</a>
+<li> <b> SSCD: Sparse Semantic Concept Defense Against Semantic Adversarial Attacks to Image Classifiers</b>
 <br> <span style="position: relative;"><i>Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, Renè Vidal</i>
-  <br> <a href="/_pages/_ICIP2026_Nghia__Sparse_Semantic_Defense__SSD_.pdf"> [Paper]</a> <i> </i>
+  <br> <i>In the Unifying Concept Representation Learning Workshop, ICLR 2026, </i>
+  <br> <a href="https://openreview.net/pdf?id=lxdEaU2dMp"> [Paper]</a> <i> </i>
 <li><b>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice</b>
   <br> <span style="position: relative;"><i>Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, Renè Vidal</i>
   <br> <a href="Certifiably_Robust_Classifiers_for_Gaussians_Mixtures_in_Pretrained_Latent_Spaces.pdf"> [Paper]</a> <i> </i>
@@ -91,7 +92,7 @@ Ultimately, my goal is to bridge theory and practice to ensure that AI is not on
 </li>
 
 <h2>Professional Service</h2>
-<li>Reviewer: ICML 2026, AISTATS 2025, 2026, ICLR 2026, JMRL
+<li>Reviewer: NeurIPS 2026, ICML 2026, AISTATS 2025, 2026, ICLR 2026, JMRL
 <li>Organizer: Workshop on Machine Learning and Optimization, IEEE CISS 2023
 <li>Volunteer: Deepmath 2024
 </li> 
