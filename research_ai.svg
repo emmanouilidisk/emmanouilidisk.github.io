@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5ecd6"/><stop offset="1" stop-color="#dfe6ef"/></linearGradient></defs>
+<rect width="600" height="300" fill="url(#g)"/>
+<g stroke="#283A5C" stroke-width="4" fill="none">
+<circle cx="160" cy="155" r="24"/><circle cx="300" cy="95" r="24"/><circle cx="300" cy="215" r="24"/><circle cx="440" cy="155" r="24"/>
+<path d="M182 145 L278 105"/><path d="M182 165 L278 205"/><path d="M322 105 L418 145"/><path d="M322 205 L418 165"/>
+</g>
+<circle cx="300" cy="95" r="10" fill="#9a7627"/><circle cx="300" cy="215" r="10" fill="#9a7627"/><circle cx="160" cy="155" r="10" fill="#9a7627"/><circle cx="440" cy="155" r="10" fill="#9a7627"/>
+<text x="40" y="55" fill="#283A5C" font-family="Georgia,serif" font-size="28">Theory of modern AI systems</text>
+</svg>

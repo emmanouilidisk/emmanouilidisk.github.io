@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5ecd6"/><stop offset="1" stop-color="#e8eef5"/></linearGradient></defs>
+<rect width="600" height="300" fill="url(#g)"/>
+<ellipse cx="220" cy="155" rx="120" ry="80" fill="none" stroke="#283A5C" stroke-width="4"/>
+<ellipse cx="220" cy="155" rx="78" ry="52" fill="none" stroke="#9a7627" stroke-width="4"/>
+<path d="M380 90 l70 0 l0 35 l30 0 l-65 80 l-65 -80 l30 0 z" fill="#283A5C" opacity="0.92"/>
+<text x="40" y="55" fill="#283A5C" font-family="Georgia,serif" font-size="28">Robust &amp; certifiable learning</text>
+</svg>
