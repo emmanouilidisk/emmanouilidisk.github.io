@@ -1,14 +1,14 @@
 <!--
 EDIT GUIDE:
-1. HERO / INTRO: search for <!-- HERO SECTION -->
-2. MOTTO: search for <!-- RESEARCH MOTTO -->
-3. CONTACT LINKS: search for <!-- CONTACT BUTTONS -->
-4. ACADEMIC JOURNEY: search for <!-- ACADEMIC JOURNEY -->
-5. RESEARCH CARDS: search for <!-- RESEARCH SECTION -->
-6. PUBLICATIONS: search for <!-- PUBLICATIONS SECTION -->
-7. HONORS: search for <!-- HONORS SECTION -->
-8. SERVICE: search for <!-- SERVICE SECTION -->
-9. NEWS: search for <!-- NEWS SECTION -->
+1. HERO / INTRO: search for <-- HERO SECTION 
+2. MOTTO: search for  RESEARCH MOTTO 
+3. CONTACT LINKS: search for  CONTACT BUTTONS 
+4. ACADEMIC JOURNEY: search for  ACADEMIC JOURNEY 
+5. RESEARCH CARDS: search for  RESEARCH SECTION 
+6. PUBLICATIONS: search for PUBLICATIONS SECTION 
+7. HONORS: search for HONORS SECTION 
+8. SERVICE: search for SERVICE SECTION 
+9. NEWS: search for  NEWS SECTION 
 10. COLORS / FONTS: search for :root and body in the CSS near the top
 -->
 
@@ -214,14 +214,24 @@ EDIT GUIDE:
     }
 
     .research-visual{
-      height:110px;
+      width:100%;
+      aspect-ratio:16 / 9;
+      min-height:150px;
       border-radius:18px;
       border:1px solid rgba(154,118,39,.18);
       margin-bottom:1rem;
       background-size:cover;
       background-position:center;
+      background-repeat:no-repeat;
       overflow:hidden;
       position:relative;
+      box-shadow:0 8px 18px rgba(20,24,32,.05);
+    }
+
+    @media (max-width: 980px){
+      .research-visual{
+        min-height:180px;
+      }
     }
 
     .research-visual::after{
@@ -269,7 +279,7 @@ EDIT GUIDE:
 
     .eyebrow{
       display:inline-block;
-      font-size:.82rem;
+      font-size:1.5rem;
       letter-spacing:.18em;
       text-transform:uppercase;
       color:var(--gold);
@@ -533,7 +543,7 @@ EDIT GUIDE:
     }
 
     .section-head .label{
-      font-size:1rem;
+      font-size:1.rem;
       letter-spacing:.18em;
       text-transform:uppercase;
       color:var(--gold);
@@ -654,6 +664,65 @@ EDIT GUIDE:
     .research-card p{
       color:var(--muted);
       margin:0;
+    }
+
+
+    .pub-years{
+      display:grid;
+      gap:1.6rem;
+      margin-top:1rem;
+    }
+
+    .pub-year-row{
+      display:grid;
+      grid-template-columns: 110px 1fr;
+      gap:1.25rem;
+      align-items:start;
+    }
+
+    .pub-year-label{
+      position:relative;
+      color:var(--gold);
+      font-size:1.05rem;
+      font-weight:600;
+      letter-spacing:.04em;
+      padding-top:.2rem;
+      text-align:left;
+    }
+
+    .pub-year-label::after{
+      content:"";
+      display:block;
+      width:42px;
+      height:2px;
+      margin-top:.45rem;
+      background:var(--gold);
+      opacity:.7;
+    }
+
+    .pub-year-items{
+      display:grid;
+      gap:1rem;
+    }
+
+    .paper-year{
+      display:grid;
+      grid-template-columns: 150px 1fr auto;
+      gap:1rem;
+      align-items:start;
+    }
+
+    @media (max-width: 980px){
+      .pub-year-row{
+        grid-template-columns:1fr;
+        gap:.7rem;
+      }
+      .pub-year-label::after{
+        width:56px;
+      }
+      .paper-year{
+        grid-template-columns:1fr;
+      }
     }
 
     .papers{
@@ -894,7 +963,7 @@ EDIT GUIDE:
         <div class="seal">KE</div>
         <div class="brand-text">
           <strong>Konstantinos Emmanouilidis</strong>
-          <span>PhD Student · Machine Learning · Optimization</span>
+          <span>PhD Student · University of Pennsylvania</span>
         </div>
       </div>
       <nav aria-label="Main navigation">
@@ -914,28 +983,28 @@ EDIT GUIDE:
     <!-- HERO SECTION -->
     <section class="hero" aria-label="Introduction">
       <div class="hero-copy">
-        <span class="eyebrow">Konstantinos Emmanouilidis</span>
-        <h1>PhD student in machine learning, optimization, and the theory of AI.</h1>
+        <span class="eyebrow">Welcome!</span>
+        <h1></h1>
         <p class="lead">
           I am a PhD student in the Department of Computer and Information Science at the University of Pennsylvania,
-          advised by René Vidal and affiliated with the GRASP Laboratory. My research interests lie in the theoretical
-          foundations of deep learning and AI, machine learning, optimization, and theoretical computer science.
+          advised by <a href="http://vision.jhu.edu/rvidal.html">René Vidal</a>. I am affiliated with the IDEAS, ASSET and GRASP Center at UPenn. My research interests lie in the theoretical
+          foundations of deep learning, (multi-agent) optimization and theoretical computer science.
         </p>
         <p class="lead">
           Before coming to the United States, I completed a Diploma in Electrical and Computer Engineering in Greece,
-          where I worked with Dimitris Fotakis and Pavlos Efraimidis on problems at the intersection of opinion dynamics
+          where I worked with <a href="http://www.softlab.ntua.gr/~fotakis/">Dimitris Fotakis</a> and <a href="https://euclid.ee.duth.gr/">Pavlos Efraimidis</a> on problems at the intersection of opinion dynamics
           and theoretical computer science.
         </p>
-        <p class="lead">
+        <!-- <p class="lead">
           More broadly, I am interested in mathematically principled ways of understanding modern learning systems,
           especially through dynamics, robustness, and geometric structure.
-        </p>
+        </p> -->
 
         <!-- RESEARCH MOTTO -->
-        <div class="motto">
+        <!-- <div class="motto">
           <strong>Research Motto</strong>
           <span>Towards a theoretical foundation of modern AI.</span>
-        </div>
+        </div> -->
 
         <!-- <div class="hero-meta">
           <span class="pill">University of Pennsylvania</span>
@@ -945,19 +1014,14 @@ EDIT GUIDE:
           <span class="pill">Robustness</span>
         </div> -->
 
-        <div class="hero-actions">
-          <a class="btn primary" href="#publications">Selected Publications</a>
-          <a class="btn secondary" href="#updates">Recent News</a>
-        </div>
-
         <div class="hero-contact">
           <!-- CONTACT BUTTONS -->
           <div class="contact-buttons">
-            <a class="contact-btn" href="mailto:kemmanou@seas.upenn.edu"><span class="contact-icon">✉️</span><span>Email</span></a>
-            <a class="contact-btn" href="https://scholar.google.com/"><span class="contact-icon">🎓</span><span>Google Scholar</span></a>
-            <a class="contact-btn" href="https://emmanouilidisk.github.io/files/CV_Konstantinos_Emmanouilidis.pdf"><span class="contact-icon">📄</span><span>CV</span></a>
-            <a class="contact-btn" href="https://github.com/emmanouilidisk"><span class="contact-icon">💻</span><span>GitHub</span></a>
-            <a class="contact-btn" href="https://www.linkedin.com/"><span class="contact-icon">🔗</span><span>LinkedIn</span></a>
+            <a class="contact-btn" href="mailto:ekostas@engineering.upenn.edu"><span class="contact-icon">✉️</span><span>Email</span></a>
+            <a class="contact-btn" href="https://scholar.google.com/citations?user=D1tFaHgAAAAJ&hl=el"><span class="contact-icon">🔗</span><span>Google Scholar</span></a>
+            <a class="contact-btn" href="https://emmanouilidisk.github.io/Resume_Konstantinos_Emmanouilidis_v2025.pdf"><span class="contact-icon">📄</span><span>CV</span></a>
+            <a class="contact-btn" href="https://github.com/emmanouilidisk"><span class="contact-icon">🔗</span><span>GitHub</span></a>
+            <a class="contact-btn" href="https://www.linkedin.com/in/emmanouilidisk/"><span class="contact-icon">🔗</span><span>LinkedIn</span></a>
           </div>
           <!-- <div class="affiliation-strip">
             <div class="affiliation-badge">
@@ -976,44 +1040,50 @@ EDIT GUIDE:
             </div>
           </div> -->
         </div>
+        
+        
+        <!-- <div class="hero-actions">
+          <a class="btn primary" href="#publications">Selected Publications</a>
+          <a class="btn secondary" href="#updates">Recent News</a>
+        </div> -->
       </div>
 
       <aside class="hero-side-stack" aria-label="Profile panel">
         <div class="portrait-frame photo">
-          <img class="portrait-photo" src="bio3.jpg" alt="Portrait of Konstantinos Emmanouilidis" />
+          <img class="portrait-photo" src="bio3.png" alt="Portrait of Konstantinos Emmanouilidis" />
           <div class="portrait-caption">
-            <strong>Current Focus</strong>
-            <span>Optimization dynamics, robustness certificates, and the geometry of learned representations.</span>
+            <strong>Research Interests</strong>
+            <span>Deep learning Theory, (Multi-agent) Optimization, Theoretical Computer Science.</span>
           </div>
         </div>
 
         <!-- ACADEMIC JOURNEY -->
-        <div class="journey-card">
+        <!-- <div class="journey-card">
           <h3>Academic Journey</h3>
           <div class="journey-list">
             <div class="journey-step">
-              <div class="journey-icon">🛣️</div>
+              <div class="journey-icon"><img src="upenn_logo.png" alt="University of Pennsylvania logo" /></div>
               <div>
                 <strong>University of Pennsylvania</strong>
-                <span>PhD in Computer and Information Science · Present</span>
+                <span>PhD in Computer and Information Science</span>
               </div>
-            </div>
-            <div class="journey-step">
+            </div> -->
+            <!-- <div class="journey-step">
               <div class="journey-icon">🛣️</div>
               <div>
                 <strong>National Technical University of Athens (NTUA)</strong>
                 <span>Earlier academic stage</span>
               </div>
-            </div>
-            <div class="journey-step">
-              <div class="journey-icon">🛣️</div>
+            </div> -->
+            <!-- <div class="journey-step">
+              <div class="journey-icon"><img src="duth_logo.png" alt="Democritus University of Thrace logo" /></div>
               <div>
-                <strong>Democritus University of Thrace (DUTH)</strong>
-                <span>Earlier academic affiliation</span>
+                <strong>Democritus University of Thrace</strong>
+                <span>Undergraduate Degree in Electrical & Computer Engineering</span>
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
       </aside>
     </section>
 
@@ -1022,131 +1092,28 @@ EDIT GUIDE:
     <!-- NEWS SECTION -->
     <section id="updates">
       <div class="section-head">
-        <div class="label">Updates</div>
+        <div class="label">Recent News</div>
       </div>
 
       <div class="card news-list">
         <div class="news-item">
-          <div class="news-date">2026</div>
-          <div>Continuing research on machine learning theory, optimization, and certifiable robustness.</div>
+          <div class="news-date">June 2026</div>
+          <div>New preprint on SGD with large stepsizes!</div>
         </div>
         <div class="news-item">
-          <div class="news-date">2024</div>
-          <div>Paper on stochastic extragradient with random reshuffling appeared at AISTATS 2024.</div>
+          <div class="news-date">February 2026</div>
+          <div>Two papers accepted at ICLR 2026!</div>
         </div>
         <div class="news-item">
-          <div class="news-date">Ongoing</div>
-          <div>Developing theoretical and practical foundations for robust and interpretable AI systems.</div>
+          <div class="news-date">September 2025</div>
+          <div>Visiting Simons NYC for Deep Learning Theory. Happy to connect and discuss research!</div>
         </div>
       </div>
     </section>
-
-    <!-- RESEARCH SECTION -->
-    <section id="research">
-      <div class="section-head">
-        <div class="label">Research</div>
-      </div>
-
-      <div class="research-grid">
-        <article class="card research-card">
-          <div class="research-visual" style="background-image:url('research_opt.svg');"></div>
-          <span class="index">01</span>
-          <h3>Optimization dynamics</h3>
-          <p>
-            Understanding the behavior of stochastic algorithms in modern overparameterized regimes,
-            including stability, implicit bias, and large-step-size phenomena.
-          </p>
-        </article>
-
-        <article class="card research-card">
-          <div class="research-visual" style="background-image:url('research_robust.svg');"></div>
-          <span class="index">02</span>
-          <h3>Robust and certifiable learning</h3>
-          <p>
-            Designing classifiers and latent-space methods with principled robustness guarantees,
-            especially through geometric and probabilistic structure.
-          </p>
-        </article>
-
-        <article class="card research-card">
-          <div class="research-visual" style="background-image:url('research_ai.svg');"></div>
-          <span class="index">03</span>
-          <h3>Theory for modern AI systems</h3>
-          <p>
-            Building mathematical frameworks for deep networks and related AI systems,
-            with an emphasis on interpretable structure and provable performance.
-          </p>
-        </article>
-      </div>
-    </section>
-
-<!-- PUBLICATIONS SECTION -->
-    <section id="publications">
-      <div class="section-head">
-        <div class="label">Publications</div>
-      </div>
-
-      <div class="papers">
-        <!-- PUBLICATION CARD 1: duplicate this block to add another paper -->
-        <article class="card paper">
-          <div class="pub-thumb" style="background-image:url('pub_certified.svg');"></div>
-          <div>
-            <strong>Certifiably Robust Classifiers: Bridging the Gap Between Theory and Practice</strong>
-            <div class="meta">Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, René Vidal · Preprint</div>
-            <div>
-              A study of certifiably robust classification that connects geometric theory with practical certification procedures.
-            </div>
-          </div>
-          <div class="status">Featured</div>
-        </article>
-
-        <article class="card paper">
-          <div class="pub-thumb" style="background-image:url('pub_rr.svg');"></div>
-          <div>
-            <strong>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs</strong>
-            <div class="meta">Konstantinos Emmanouilidis, René Vidal, Nicolas Loizou · AISTATS 2024</div>
-            <div>
-              Establishes improved convergence guarantees for variational inequalities under random reshuffling.
-            </div>
-            <div class="links">
-              <a href="https://arxiv.org/">ArXiv</a>
-              <a href="https://github.com/">Code</a>
-            </div>
-          </div>
-          <div class="status">Published</div>
-        </article>
-
-        <article class="card paper">
-          <div class="pub-thumb" style="background-image:url('pub_ssd.svg');"></div>
-          <div>
-            <strong>SSD: A Sparse Semantic Defense Against Semantic Adversarial Attacks to Image Classifiers</strong>
-            <div class="meta">Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, René Vidal</div>
-            <div>
-              Develops a sparse semantic defense against semantic adversarial attacks for image classification systems.
-            </div>
-          </div>
-          <div class="status">Research</div>
-        </article>
-
-        <article class="card paper">
-          <div class="pub-thumb" style="background-image:url('pub_opinion.svg');"></div>
-          <div>
-            <strong>Opinion Dynamics in Graphs with Hidden Links</strong>
-            <div class="meta">Undergraduate Thesis · with Dimitris Fotakis and Pavlos Efraimidis</div>
-            <div>
-              Early work on opinion dynamics and theoretical computer science, developed during undergraduate research in Greece.
-            </div>
-          </div>
-          <div class="status">Thesis</div>
-        </article>
-      </div>
-    </section>
-
-
-    <!-- HONORS SECTION -->
+<!-- HONORS SECTION -->
     <section id="honors">
       <div class="section-head">
-        <div class="label">Honors</div>
+        <div class="label">Honors & Awards</div>
       </div>
 
       <div class="card honors-list">
@@ -1158,36 +1125,196 @@ EDIT GUIDE:
           </div>
         </div>
         <div class="honor-item">
-          <div class="honor-medal">🥉</div>
-          <div>
-            <strong>South Eastern European Mathematical Olympiad (SEEMOUS)</strong>
-            Bronze Medal, twice
-          </div>
-        </div>
-        <div class="honor-item">
           <div class="honor-medal">🏅</div>
           <div>
             <strong>IEEEXtreme 13.0 Collegiate Programming Competition</strong>
-            Top 10% worldwide
+            Top 10% Worldwide
+          </div>
+        </div>
+        <div class="honor-item">
+          <div class="honor-medal">🥉</div>
+          <div>
+            <strong>South Eastern European Mathematical Olympiad (SEEMOUS)</strong>
+            Bronze Medal (2x)
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- RESEARCH SECTION -->
+    <section id="research">
+      <div class="section-head">
+        <div class="label">Research</div>
+      </div>
+
+      <div class="research-grid">
+        <article class="card research-card">
+          <div class="research-visual" style="background-image:url('research_ai.png'); background-position:center center;"></div>
+          <span class="index">01</span>
+          <h3>Theory for Deep Learning & AI</h3>
+          <p>
+            Building mathematical frameworks for deep networks and AI systems,
+            with an emphasis on theoretical guarantees for their strong performance.
+          </p>
+        </article>
+
+        <article class="card research-card">
+          <div class="research-visual" style="background-image:url('research_opt.png'); background-position:center center;"></div>
+          <span class="index">02</span>
+          <h3>Optimization Dynamics</h3>
+          <p>
+            Understanding the behavior of stochastic algorithms in modern AI regimes,
+            including stability, implicit bias, and acceleration.
+          </p>
+        </article>
+
+        <article class="card research-card">
+          <div class="research-visual" style="background-image:url('research_ce.png'); background-position:center center;"></div>
+          <span class="index">03</span>
+          <h3>Robust and Certified learning</h3>
+          <p>
+            Designing classifiers and latent-space methods with principled robustness guarantees.
+          </p>
+        </article>
+      </div>
+    </section>
+
+<!-- PUBLICATIONS SECTION -->
+    <section id="publications">
+      <div class="section-head">
+        <div class="label">Publications</div>
+      </div>
+
+      <div class="pub-years">
+        <div class="pub-year-row">
+          <div class="pub-year-label">2026</div>
+          <div class="pub-year-items">
+            <article class="card paper-year">
+              <div class="pub-thumb" style="background-image:url('pub_opt.png');"></div>
+              <div>
+                <strong>SGD at the Edge of Stability: Stochastic Stabilization with Large Learning Rates</strong>
+                <div class="meta">Konstantinos Emmanouilidis, Lachlan MacDonald, Salma Tarmoun, René Vidal</div>
+                <div>
+                </div>
+                <div class="links">
+                  <a href="https://arxiv.org/">Paper</a>
+                </div>
+              </div>
+              <div class="status"></div>
+            </article>
+          <!-- <div class="pub-year-items"> -->
+            <article class="card paper-year">
+              <div class="pub-thumb" style="background-image:url('pub_rr.svg');"></div>
+              <div>
+                <strong>Shuffling the Data, Stretching the Step-size: Sharper Bias In Constant Step-size SGD</strong>
+                <div class="meta">Konstantinos Emmanouilidis, Emmanouil-Vasileios Vlatakis-Gkaragkounis, René Vidal</div>
+                <div>
+                  In the 14th International Conference on Learning Representations (ICLR 2026).
+                </div>
+                <div class="links">
+                  <a href="https://arxiv.org/abs/2604.10373">Paper</a>
+                </div>
+              </div>
+              <div class="status">ICLR 2026</div>
+            </article>
+
+            <article class="card paper-year">
+              <div class="pub-thumb" style="background-image:url('pub_ce.png');"></div>
+              <div>
+                <strong>SSCD: Sparse Semantic Concept Defense Against Semantic Adversarial Attacks to Image Classifiers</strong>
+                <div class="meta">Nghia Nguyen, Darshan Thaker, Konstantinos Emmanouilidis, Tianjiao Ding, René Vidal</div>
+                <div>
+                  In the Unifying Concept Representation Learning Workshop, ICLR 2026.
+                </div>
+                <div class="links">
+                  <a href="https://openreview.net/pdf?id=lxdEaU2dMp">Paper</a>
+                </div>
+              </div>
+              <div class="status">UCRL Workshop, ICLR 2026</div>
+            </article>
+          </div>
+        </div>
+
+        <div class="pub-year-row">
+          <div class="pub-year-label">2025</div>
+          <div class="pub-year-items">
+            <article class="card paper-year">
+              <div class="pub-thumb" style="background-image:url('pub_ce.png');"></div>
+              <div>
+                <strong>Certified Robustness from Approximate Gaussian
+                Mixture Structures in Pretrained Latent Spaces</strong>
+                <div class="meta">Konstantinos Emmanouilidis, Nghia Nguyen, Tianjiao Ding, Nicolas Loizou, René Vidal</div>
+                <div>
+                  Leveraging knowledge about the underlying distribution to establish robust and certified classifiers.
+                </div>
+                <div class="links">
+                  <a href="#">Paper</a>
+                </div>
+              </div>
+              <div class="status">GreeksInAI Symposium</div>
+            </article>
+          </div>
+        </div>
+
+        <div class="pub-year-row">
+          <div class="pub-year-label">2024</div>
+          <div class="pub-year-items">
+            <article class="card paper-year">
+              <div class="pub-thumb" style="background-image:url('pub_opt.png');"></div>
+              <div>
+                <strong>Stochastic Extragradient with Random Reshuffling: Improved Convergence for VIs</strong>
+                <div class="meta">Konstantinos Emmanouilidis, René Vidal, Nicolas Loizou</div>
+                <div>
+                  In the 27th International Conference on Artificial Intelligence and Statistics (AISTATS 2024).
+                </div>
+                <div class="links">
+                  <a href="https://arxiv.org/">ArXiv</a>
+                  <a href="https://github.com/">Code</a>
+                </div>
+              </div>
+              <div class="status">AISTATS 2024</div>
+            </article>
+          </div>
+        </div>
+
+        <div class="pub-year-row">
+          <div class="pub-year-label">Earlier</div>
+          <div class="pub-year-items">
+            <article class="card paper-year">
+              <div class="pub-thumb" style="background-image:url('pub_opinion.svg');"></div>
+              <div>
+                <strong>Opinion Dynamics in Graphs with Hidden Links</strong>
+                <div class="meta">Undergraduate Thesis w. Dimitris Fotakis & Pavlos Efraimidis</div>
+                <div>
+                  Recovering the weights of a directed graph on which opinion dynamics are diffused. Formulated the necessary conditions for the uniqueness of a solution and established the number of samples needed to recover the underlying graph.
+                </div>
+              </div>
+              <div class="status">Undergraduate Thesis</div>
+            </article>
           </div>
         </div>
       </div>
     </section>
 
+
     <!-- SERVICE SECTION -->
     <section id="service">
       <div class="section-head">
-        <div class="label">Service</div>
+        <div class="label">Professional Service</div>
       </div>
 
       <div class="card news-list">
         <div class="news-item">
           <div class="news-date">Reviewing</div>
-          <div>ICML 2024, 2026 · JMLR 2024 · AISTATS 2025, 2026 · ICLR 2026</div>
+          <div>ICML (2024, 2026) · AISTATS (2025, 2026) · ICLR 2026 · NeurIPS 2026 · JMLR</div>
         </div>
         <div class="news-item">
           <div class="news-date">Organizing</div>
           <div>Workshop on Machine Learning and Optimization, IEEE CISS 2023</div>
+        </div>
+        <div class="news-item">
+          <div class="news-date">Area Chair</div>
+          <div><a href="https://sites.google.com/view/nextgame-icml26
+          ">New Frontiers in Game-Theoretic Learning</a> - NExT-Game, ICML 2026</div>
         </div>
         <div class="news-item">
           <div class="news-date">Volunteer</div>
@@ -1205,17 +1332,15 @@ EDIT GUIDE:
         <div class="label">Contact</div>
       </div>
 
-      <div class="contact-grid">
-        <div class="card">
+      <div class="card">
           <h3>Get in touch</h3>
           <div class="contact-links">
-            <a href="mailto:kemmanou@seas.upenn.edu">kemmanou@seas.upenn.edu</a>
-            <a href="https://scholar.google.com/">Google Scholar</a>
-            <a href="https://emmanouilidisk.github.io/files/CV_Konstantinos_Emmanouilidis.pdf">CV (PDF)</a>
+            <a href="mailto:ekostas@engineering.upenn.edu">Email</a>
+            <a href="https://scholar.google.com/citations?user=D1tFaHgAAAAJ&hl=el">Google Scholar</a>
+            <a href="https://emmanouilidisk.github.io/Resume_Konstantinos_Emmanouilidis_v2025.pdf">CV </a>
             <a href="https://github.com/emmanouilidisk">GitHub</a>
-            <a href="https://www.linkedin.com/">LinkedIn</a>
+            <a href="https://www.linkedin.com/in/emmanouilidisk/">LinkedIn</a>
           </div>
-        </div>
 
         <!-- <div class="card">
           <h3>Notes</h3>
